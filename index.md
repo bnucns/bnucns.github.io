@@ -14,16 +14,16 @@ seo:
 
 {% if site.announcements %}
     {% if site.announcements.size < 3 %}
-        {% assign announcements = site.announcements | reverse %}
-        {% assign num_announcements = announcements | size %}
-        {% for announcement in announcements limit:num_announcements %}
-            {{ announcement }}
-        {% endfor %}
+    {% assign announcements = site.announcements | reverse %}
+    {% assign num_announcements = announcements | size %}
+    {% for announcement in announcements limit:num_announcements %}
+    {{ announcement }}
+    {% endfor %}
     {% endif %}
-{% else %}
+    {% else %}
     {% assign announcements = site.announcements | reverse %}
     {% for announcement in announcements limit:3 %}
-        {{ announcement }}
+    {{ announcement }}
     {% endfor %}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
