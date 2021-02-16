@@ -15,7 +15,8 @@ seo:
 {% if site.announcements %}
 {% if site.announcements.size < 3 %}
     {% assign announcements = site.announcements | reverse %}
-    {% for announcement in announcements limit:site.announcements.size %}
+    {% assign num_announcements = announcements | size %}
+    {% for announcement in announcements limit:num_announcements %}
         {{ announcement }}
     {% endfor %}
 {% else %}
