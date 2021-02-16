@@ -28,7 +28,7 @@ schedule:
           location: Tencent Meeting/Online
   - name: Wednesday
     events:
-        - name: Office Hour
+        - name: Office Hours
           start: 2:00 PM
           end: 4:00 PM
           location: Tencent Meeting/Online
