@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Home
 nav_exclude: true
 seo:
   type: Course
