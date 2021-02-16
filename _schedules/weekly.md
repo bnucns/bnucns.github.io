@@ -27,8 +27,8 @@ schedule:
           end: 11:40 AM
           location: Tencent Meeting/Online
         - name: Office Hour
-          start: 14:00 AM
-          end: 16:00 AM
+          start: 2:00 PM
+          end: 4:00 PM
           location: Tencent Meeting/Online
   - name: Wednesday
   - name: Thursday
