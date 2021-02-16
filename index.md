@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: 
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: 
 ---
 
 # {{ site.tagline }}
