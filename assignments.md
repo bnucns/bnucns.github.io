@@ -4,8 +4,8 @@ title: Assignments
 nav_order: 3
 ---
 
-## Homeworks
-- [HW 01](/_assignments/hw01.md)
+## Homework
+- [HW 01](hw01.md)
 
 
 ## Project
