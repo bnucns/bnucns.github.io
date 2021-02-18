@@ -65,7 +65,7 @@ defaults:
       layout: announcement
   - scope:
       path: ''
-      type: pages
+      type: assignments
     values:
       layout: page
 
