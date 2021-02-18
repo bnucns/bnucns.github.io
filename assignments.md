@@ -4,7 +4,7 @@ title: Assignments
 nav_order: 3
 ---
 
-{% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
-{{ announcement }}
+{% assign assignments = site.assignments | reverse %}
+{% for assignment in assignments %}
+{{ assignment }}
 {% endfor %}
