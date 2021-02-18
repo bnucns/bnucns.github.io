@@ -63,6 +63,12 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+
 
 compress_html:
   clippings: all
