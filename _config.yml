@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CNS & Brain AI
-tagline: Computational Neuroscience & Brain-Inspired AI 21 SPRING
+tagline: Computational Neuroscience & Brain-Inspired AI 2021 SPRING
 description: 
 author: CNS Team
 baseurl: '' # the subpath of your site, e.g. /blog
