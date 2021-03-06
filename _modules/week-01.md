@@ -8,6 +8,7 @@ Feb 23
 Mar 2
 : [Brief Backgrounds II](#)
 
+<!--
 Sep 28
 : [Java & Git](#)
   : [1.1](#)
@@ -27,3 +28,5 @@ Oct 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
 : **HW 1 due**{: .label .label-red }
+
+-->
