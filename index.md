@@ -19,3 +19,4 @@ seo:
 
 ## Reminders
 
+- In W4, the lecture (Mar 16) and office hour (Mar 17) is canceled due to the University regulation. 
