@@ -1,6 +1,12 @@
 ---
-title: Introduction to Java
+title: Introduction to Computational Neuroscience
 ---
+
+Feb 23
+: [Brief Backgrounds I](#)
+
+Mar 2
+: [Brief Backgrounds II](#)
 
 Sep 28
 : [Java & Git](#)
