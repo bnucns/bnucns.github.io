@@ -10,6 +10,4 @@ nav_order: 3
 
 ## Project
 
-### Overview
-
-### Specification 
+- [Proj 01](proj01)
