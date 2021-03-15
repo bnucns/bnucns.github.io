@@ -25,7 +25,7 @@ schedule:
         - name: Lecture
           start: 10:00 AM
           end: 11:40 AM
-          location: Tencent Meeting/Online
+          location: TB2-207
   - name: Wednesday
     events:
         - name: Office Hours
