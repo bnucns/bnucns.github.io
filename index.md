@@ -19,4 +19,5 @@ seo:
 
 ## Reminders
 
-- In W4, the lecture (Mar 16) and office hour (Mar 17) are cancelled due to the University regulation. 
+- Starting from W5, the lecture takes place in Room 207, Teaching Building 2.
+- <s>In W4, the lecture (Mar 16) and office hour (Mar 17) are cancelled due to the University regulation.</s> 
