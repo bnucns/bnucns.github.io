@@ -16,22 +16,34 @@ description: >-
 
 ---
 
-## Overview
+## Commentary
 
-Course overview
+Participants will learn knowledge on neuron models, synapse models, neural network models, working memory and decision models, neural coding and decoding, Bayesian inference network, and neural network based learning algorithms in this course.  
+
+## Objectives
+
+After finishing this course, participants are expected to own the ability to 
+- computationally simulate the neural system working mechanism
+- apply brain-inspired algorithms (e.g. supervised, and unsupervised neural networks, and reinforcement learning)
 
 ## Prerequisites
 
 - Knowledge on differential equations
 - Ability to write non-trivial programmes
 
-## Lecture
-
-Lectures are given by Prof. Dahui Wang and Prof. Bailu Si jointly.
-
 ## Grading
 
-Grading rules
+### Project I (50%)
+
+TBA
+
+### Project II (50%)
+
+TBA
+
+## Lecture
+
+Lectures are given by Prof. Dahui Wang and Prof. Bailu Si jointly. For detailed information, see [Syllabus](https://bnucns.github.io/syllabus/) and [Schedule](https://bnucns.github.io/schedule/)
 
 ## References
 
